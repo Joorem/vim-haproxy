@@ -1,0 +1,13 @@
+name: Vint
+on: [push,pull_request]
+jobs:
+  vint:
+    name: runner / vint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: action-vint
+        uses: reviewdog/action-vint@v1.0.5
+        with:
+          github_token: ${{ secrets.github_token }}
+          reporter: github-pr-review
