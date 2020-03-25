@@ -2,8 +2,8 @@
 " Description: Detect and enable syntax for HAProxy configuration file
 " Maintainer:  Jérôme Le Gal <jerome@joworld.net>
 " URL:         https://github.com/Joorem/vim-haproxy
-" Last Change: 2020 Mar 24
-" Version:     0.1.0
+" Last Change: 2020 Mar 25
+" Version:     0.1.1
 " License:     See LICENSE
 " Note:        This plugin uses the syntax file created by Bruno Michel <brmichel@free.fr>
 
