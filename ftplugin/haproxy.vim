@@ -4,7 +4,9 @@
 " URL:          https://github.com/Joorem/vim-haproxy
 " License:      See LICENSE
 
-if exists("b:did_ftplugin")
+scriptencoding utf-8
+
+if exists('b:did_ftplugin')
   finish
 else
   let b:did_ftplugin = 1
@@ -15,7 +17,7 @@ set cpo&vim
 
 setlocal comments=:# commentstring=#\ %s formatoptions-=t formatoptions-=c
 
-let b:undo_ftplugin = "setl comments< commentstring< formatoptions<"
+let b:undo_ftplugin = 'setl comments< commentstring< formatoptions<'
 
 let &cpo = s:save_cpo
 unlet s:save_cpo
