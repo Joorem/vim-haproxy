@@ -8,8 +8,8 @@
 if exists('b:current_syntax')
   finish
 endif
-let b:current_syntax = 'haproxy'
 
+scriptencoding utf-8
 set iskeyword=_,-,.,a-z,A-Z,48-57
 
 " Generic match
@@ -509,3 +509,5 @@ highlight link hapMwParam           hapBool
 highlight link hapProfTask          hapBool
 highlight link hapSslExtra          hapBool
 highlight link hapSslVerify         hapBool
+
+let b:current_syntax = 'haproxy'
