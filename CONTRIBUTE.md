@@ -21,7 +21,7 @@ Any kind of participation is welcome:
 The git workflow of this repository is inspired by the branching model used
 by [Vincent Driessen][github-vd] and described [here][nvie-article].
 
-1. first you need to fork this repository
+1. first you need to [fork][github-fork] this repository
 1. then create a new feature branch: `git checkout -b feature-foo develop`
 1. make your changes and commit them:
 
@@ -46,6 +46,7 @@ Nothing really specific, read the syntax file and try to stay coherent:
 
 Thank you! :heart: :heart: :heart:
 
+[github-fork]:https://github.com/Joorem/vim-haproxy/fork
 [github-vd]:https://github.com/nvie
 [nvie-article]:https://nvie.com/posts/a-successful-git-branching-model/
 [pr]:https://github.com/Joorem/vim-haproxy/pull/new
