@@ -1,5 +1,18 @@
 # Changelog
 
+## v0.2.0 (2020-03-27)
+
+### Added
+
+- Code of Conduct page (from Contributor Covenant)
+- How to contribute to this project
+- Issue templates (for `bug` and `feature`)
+
+### Changed
+
+- The whole file `syntax/haproxy.vim` has been rewrited
+- ftplugin: use the full option name `cpoptions` instead of `cpo`
+
 ## v0.1.1 (2020-03-25)
 
 ### Added
