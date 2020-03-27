@@ -15,12 +15,12 @@ else
   let b:did_ftplugin = 1
 endif
 
-let s:save_cpo = &cpo
-set cpo&vim
+let s:save_cpo = &cpoptions
+set cpoptions&vim
 
 setlocal comments=:# commentstring=#\ %s formatoptions-=t formatoptions-=c
 
 let b:undo_ftplugin = 'setl comments< commentstring< formatoptions<'
 
-let &cpo = s:save_cpo
+let &cpoptions = s:save_cpo
 unlet s:save_cpo
