@@ -3,7 +3,7 @@
 [![Vint](https://github.com/Joorem/vim-haproxy/workflows/Vint/badge.svg)](https://github.com/Joorem/vim-haproxy/actions?workflow=Vint)
 
 This is a Vim plugin that provides [HAProxy][hp] file detection and syntax
-highlighting (based on [Bruno Michel][bm] work).
+highlighting.
 
 ## Installation
 
@@ -52,10 +52,8 @@ Then run `:PluginInstall` in Vim (or `vim +PluginInstall +qall` from your termin
 
 ## License
 
-Because this plugin uses the syntax file provided by [HAProxy][bm], it is
-distributed under the terms of the *GPLv3* license.
+This plugin is distributed under the terms of the *GPLv3* license.
 
-[bm]:https://github.com/haproxy/haproxy/blob/master/contrib/syntax-highlight/haproxy.vim
 [hp]:https://www.haproxy.org
 [pathogen]:https://github.com/tpope/vim-pathogen
 [plug]:https://github.com/junegunn/vim-plug
