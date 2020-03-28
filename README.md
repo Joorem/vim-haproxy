@@ -1,7 +1,8 @@
 # vim-haproxy
 
 [![Vint](https://github.com/Joorem/vim-haproxy/workflows/Vint/badge.svg)](https://github.com/Joorem/vim-haproxy/actions?workflow=Vint)
-[![GitHub version](https://badge.fury.io/gh/Joorem%2Fvim-haproxy.svg)](https://badge.fury.io/gh/Joorem%2Fvim-haproxy)
+[![GitHub version](https://badge.fury.io/gh/Joorem%2Fvim-haproxy.svg)](https://github.com/Joorem/vim-haproxy)
+[![Tweet][twitter_badge]][twitter_url]
 
 This is a Vim plugin that provides [HAProxy][hp] file detection and syntax
 highlighting.
@@ -67,4 +68,6 @@ See the [LICENSE](LICENSE.md) file.
 [hp]:https://www.haproxy.org
 [pathogen]:https://github.com/tpope/vim-pathogen
 [plug]:https://github.com/junegunn/vim-plug
+[twitter_badge]:https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter
+[twitter_url]:https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FJoorem%2Fvim-haproxy&text=A%20vim%20plugin%20for%20syntax%20highlighting%20HAproxy%20configuration%20file
 [vundle]:https://github.com/VundleVim/Vundle.vim
