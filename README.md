@@ -63,7 +63,7 @@ Then run `:PluginInstall` in Vim (or `vim +PluginInstall +qall` from your termin
 
 ## Need help?
 
-If you have any problem using this plugin please let me know by opening a new [issue](issue).
+If you have any problem using this plugin please let me know by opening a new [issue][issue].
 
 ## Code of Conduct
 
@@ -71,7 +71,7 @@ See the [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) file.
 
 ## License
 
-See the [LICENSE](LICENSE.md) file.
+See the [LICENSE](LICENSE) file.
 
 [issue]:https://github.com/Joorem/vim-haproxy/issues/new/choose
 [hp]:https://www.haproxy.org
