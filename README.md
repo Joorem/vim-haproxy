@@ -1,13 +1,3 @@
-[![Vint](https://github.com/Joorem/vim-haproxy/workflows/Vint/badge.svg)](https://github.com/Joorem/vim-haproxy/actions?workflow=Vint)
-[![GitHub version](https://badge.fury.io/gh/Joorem%2Fvim-haproxy.svg)](https://github.com/Joorem/vim-haproxy)
-[![Gitter](https://img.shields.io/gitter/room/TechnologyAdvice/Stardust.svg)](https://gitter.im/vim-haproxy/community)
-[![Tweet][twitter_badge]][twitter_url]
-
-# vim-haproxy
-
-This is a Vim plugin that provides [HAProxy][hp] file detection and syntax
-highlighting.
-
 <p align="center">
   <img src="https://github.com/Joorem/vim-haproxy/wiki/img/theme-gruvbox8.png" alt="gruvbox8" width="215px"/>
   <img src="https://github.com/Joorem/vim-haproxy/wiki/img/theme-palenight.png" alt="palenight" width="215px"/>
@@ -15,7 +5,34 @@ highlighting.
   <img src="https://github.com/Joorem/vim-haproxy/wiki/img/theme-nord.png" alt="nord" width="215px"/>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/Joorem/vim-haproxy/actions?workflow=Vint" alt="Lint">
+    <img src="https://github.com/Joorem/vim-haproxy/workflows/Vint/badge.svg" />
+  </a>
+  <a href="https://github.com/Joorem/vim-haproxy/releases" alt="GitHub Version">
+    <img src="https://badge.fury.io/gh/Joorem%2Fvim-haproxy.svg" />
+  </a>
+  <a href="https://GitHub.com/Joorem/vim-haproxy/graphs/commit-activity" alt="Maintained">
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://GitHub.com/Joorem/vim-haproxy/issues/" alt="GitHub Issues">
+    <img src="https://img.shields.io/github/issues/Joorem/vim-haproxy.svg" />
+  </a>
+  <a href="LICENSE" alt="GPLv3 License">
+    <img src="https://img.shields.io/badge/license-GPLv3-blue.svg" />
+  </a>
+  <a href="https://gitter.im/vim-haproxy/community" alt="Gitter">
+    <img src="https://img.shields.io/gitter/room/Joorem/vim-haproxy.svg" />
+  </a>
+  <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FJoorem%2Fvim-haproxy&text=A%20vim%20plugin%20for%20syntax%20highlighting%20HAproxy%20configuration%20file" alt="Tweet">
+    <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter" />
+  </a>
+</p>
+
+# vim-haproxy
+
+This is a Vim plugin that provides [HAProxy][hp] file detection and syntax
+highlighting.
 
 ## Installation
 
