@@ -190,7 +190,7 @@ syntax keyword hapLogGlobal         contained global
 syntax keyword hapMwParam           contained no-exit-on-failure skipwhite nextgroup=hapNone
 syntax keyword hapProfTask          contained auto on off
 syntax keyword hapSslDefaultOptions contained force-sslv3 force-tlsv10 force-tlsv11 force-tlsv12 force-tlsv13
-syntax keyword hapSslDefaultOptions contained no-tls-tickets no-tlsv10 no-tlsv11 no-tlsv12 no-tlsv13
+syntax keyword hapSslDefaultOptions contained no-sslv3 no-tls-tickets no-tlsv10 no-tlsv11 no-tlsv12 no-tlsv13
 syntax keyword hapSslDefaultOptions contained ssl-max-ver ssl-min-ver
 syntax match   hapSslExtra          contained /\v(\s?(none|all|bundle|sctl|ocsp|issuer|key))+/
 syntax keyword hapSslVerify         contained none required
