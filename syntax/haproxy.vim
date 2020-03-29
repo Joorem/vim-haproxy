@@ -58,7 +58,7 @@ syntax keyword hapParam ca-base                          skipwhite nextgroup=hap
 syntax keyword hapParam chroot                           skipwhite nextgroup=hapPath
 syntax keyword hapParam crt-base                         skipwhite nextgroup=hapString
 syntax keyword hapParam cpu-map
-syntax keyword hapParam daemon                           skipwhite nextgroup=hapString
+syntax keyword hapParam daemon                           skipwhite nextgroup=hapNone
 syntax keyword hapParam debug                            skipwhite nextgroup=hapString
 syntax keyword hapParam description
 syntax keyword hapParam deviceatlas-json-file            skipwhite nextgroup=hapPath
