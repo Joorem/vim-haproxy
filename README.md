@@ -38,28 +38,27 @@ do so:
 git clone https://github.com/Joorem/vim-haproxy ~/.vim/bundle/vim-haproxy
 ```
 
-### Vim-Plug
+### Plug
 
 To install this plugin with [vim-plug][plug] just add the following line to
-your `~/.vimrc` file (between `call plug#begin('~/.vim/plugged')`
-and `call plug#end()`):
+your `~/.vimrc` file:
 
 ```vim
 Plug 'Joorem/vim-haproxy'
 ```
 
-Then run `:PlugInstall` in Vim (or `vim +PlugInstall +qall` from your terminal).
+Then run `:PlugInstall` in Vim or `$ vim +PlugInstall +qall`.
 
 ### Vundle
 
 To install this plugin with [Vundle][vundle] just add the following line to your
-`~/.vimrc` file (between `call vundle#begin()` and `call vundle#end()`):
+`~/.vimrc` file:
 
 ```vim
 Plugin 'Joorem/vim-haproxy'
 ```
 
-Then run `:PluginInstall` in Vim (or `vim +PluginInstall +qall` from your terminal).
+Then run `:PluginInstall` in Vim or `$ vim +PluginInstall +qall`.
 
 ## Need help?
 
