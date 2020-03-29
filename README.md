@@ -11,7 +11,7 @@ highlighting.
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/Joorem/vim-haproxy/wiki/img/theme-deus.png" alt="deus" width="215px"/>
+  <img src="https://github.com/Joorem/vim-haproxy/wiki/img/theme-gruvbox8.png" alt="gruvbox8" width="215px"/>
   <img src="https://github.com/Joorem/vim-haproxy/wiki/img/theme-palenight.png" alt="palenight" width="215px"/>
   <img src="https://github.com/Joorem/vim-haproxy/wiki/img/theme-sonokai.png" alt="sonokai" width="215px"/>
   <img src="https://github.com/Joorem/vim-haproxy/wiki/img/theme-nord.png" alt="nord" width="215px"/>
