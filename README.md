@@ -2,6 +2,7 @@
 
 [![Vint](https://github.com/Joorem/vim-haproxy/workflows/Vint/badge.svg)](https://github.com/Joorem/vim-haproxy/actions?workflow=Vint)
 [![GitHub version](https://badge.fury.io/gh/Joorem%2Fvim-haproxy.svg)](https://github.com/Joorem/vim-haproxy)
+[![Gitter](https://img.shields.io/gitter/room/TechnologyAdvice/Stardust.svg)](https://gitter.im/vim-haproxy/community)
 [![Tweet][twitter_badge]][twitter_url]
 
 This is a Vim plugin that provides [HAProxy][hp] file detection and syntax
