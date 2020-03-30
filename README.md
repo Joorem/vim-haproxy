@@ -34,6 +34,15 @@
 This is a Vim plugin that provides [HAProxy][hp] file detection and syntax
 highlighting.
 
+## Features
+
+**vim-haproxy** provides:
+
+1. Highlighting of every known option, up to the 2.2 version of HAProxy
+1. Highlighting of bad arguments as _Error_ :
+
+<img src="https://github.com/Joorem/vim-haproxy/wiki/img/error-gruvbox8.png" alt="error" width="400px"/>
+
 ## Installation
 
 Use your favorite plugin manager, if you don't yet have one take a look at
