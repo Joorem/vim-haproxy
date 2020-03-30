@@ -1,5 +1,5 @@
 ---
-name: :bug: Bug Report
+name: Bug Report
 about: You found a bug? Use this template!
 labels: bug
 assignees: Joorem
