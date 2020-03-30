@@ -1,5 +1,19 @@
 # Changelog
 
+## [v0.2.1] - 2020-03-30
+
+### Added
+
+- Invalid arguments are now highlighted as **Error**
+- Definition of missing valid values for some parameters
+
+### Changed
+- `README.md`: fix broken links (LICENSE & issue)
+- `README.md`: simplification of the installation section
+- `README.md`: screenshots to show a preview of the syntax highlighting
+- `README.md`: screenshot to show how wrong arguments are highlighted
+- `bug-report.md`: remove the emoji in order to make the template usable
+
 ## [v0.2.0] - 2020-03-27
 
 ### Added
@@ -30,6 +44,7 @@
 
 This is the first working release of the plugin vim-haproxy :tada:
 
+[v0.2.1]:https://github.com/Joorem/vim-haproxy/releases/tag/v0.2.1
 [v0.2.0]:https://github.com/Joorem/vim-haproxy/releases/tag/v0.2.0
 [v0.1.1]:https://github.com/Joorem/vim-haproxy/releases/tag/v0.1.1
 [v0.1.0]:https://github.com/Joorem/vim-haproxy/releases/tag/v0.1.0

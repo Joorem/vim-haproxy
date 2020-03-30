@@ -2,8 +2,8 @@
 " Language:    HAProxy
 " Maintainer:  Jérôme Le Gal <jerome@joworld.net>
 " URL:         https://github.com/Joorem/vim-haproxy
-" Last Change: 2020 Mar 27
-" Version:     0.2.0
+" Last Change: 2020 Mar 30
+" Version:     0.2.1
 
 if exists('b:current_syntax')
   finish
